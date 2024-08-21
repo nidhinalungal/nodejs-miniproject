@@ -1,0 +1,8 @@
+{"level":"info","message":"Using Winston Logging","timestamp":"2024-08-02T11:01:18.451Z"}
+{"addressLine1":"address, Aluva, Kerala, India","createdBy":"Test","districtId":5,"level":"info","message":"Received body data:","name":"BusinessUnit1","timestamp":"2024-08-02T11:01:18.525Z"}
+{"level":"info","message":"Using Winston Logging","timestamp":"2024-08-02T11:04:58.253Z"}
+{"addressLine1":"address, Aluva, Kerala, India","createdBy":"Test","districtId":5,"level":"info","message":"Received body data:","name":"BusinessUnit1","timestamp":"2024-08-02T11:04:58.254Z"}
+{"level":"info","message":"Using Winston Logging","timestamp":"2024-08-02T11:05:10.471Z"}
+{"addressLine1":"address, Aluva, Kerala, India","createdBy":"Test","districtId":5,"level":"info","message":"Received body data:","name":"BusinessUnitName","timestamp":"2024-08-02T11:05:10.472Z"}
+{"level":"info","message":"Using Winston Logging","timestamp":"2024-08-02T11:05:33.009Z"}
+{"addressLine1":"address, Aluva, Kerala, India","createdBy":"Test","districtId":5,"level":"info","message":"Received body data:","name":"BusinessUnitNameTest","timestamp":"2024-08-02T11:05:33.022Z"}
